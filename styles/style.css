@@ -69,12 +69,25 @@
 
 /* here footer style details  */
 .last-footer{
-    width: 1920px;
-    height:506px;
+    box-sizing: border-box;
+   
     background-color: #111111;
     color: aliceblue;
-    padding-top:120px;
+    padding:80px;
     border-radius: 30px;
+    
+}
+
+.footer-input{
+    height: 40px;
+    background-color: #FFFFFF;
+    border-radius:30px;
+    text-align: center;
+}
+
+.footer-input:hover{
+    background-color: tomato;
+
 }
 
 
@@ -99,6 +112,10 @@
 
     .carou-img{
         width: 100%;
+    }
+
+    .footer-input{
+       
     }
 
     
