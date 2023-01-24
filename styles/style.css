@@ -44,6 +44,32 @@
     background-color: tomato;
 }
 
+/* here carousel pic style */
+
+.carou-img{
+    width: 1170px;
+    height: 500px;
+   
+}
+
+.carou-img-div{
+    position: relative;
+    bottom: 400px;
+   
+  
+    font-size: 24px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  
+}
+.carou-img-2{
+    width: 10%;
+    text-align: center;
+    margin: auto;
+}
+
+
+
+
 
 /* here media queries part */
 
@@ -61,6 +87,12 @@
         gap: 20px;
         width:auto;
     }
+
+    .carou-img{
+        width: 100%;
+    }
+
+    
 }
 
 
