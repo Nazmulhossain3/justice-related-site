@@ -67,6 +67,15 @@
     margin: auto;
 }
 
+/* here footer style details  */
+.last-footer{
+    width: 1920px;
+    height:506px;
+    background-color: #111111;
+    color: aliceblue;
+    padding-top:120px;
+    border-radius: 30px;
+}
 
 
 
